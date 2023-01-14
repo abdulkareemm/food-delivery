@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^9.15.0",
     "framer-motion": "^8.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
